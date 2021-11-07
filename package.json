@@ -45,7 +45,7 @@
     "@yaireo/tagify": "^4.7.2",
     "blueimp-file-upload": "^10.31.0",
     "cropperjs": "^1.5.12",
-    "foundation-sites": "5.5.3",
+    "foundation-sites": "6.7.4",
     "highcharts": "^9.2.2",
     "jquery-cropper": "^1.0.1",
     "jquery-form": "^4.3.0",
@@ -56,7 +56,7 @@
     "leaflet.markercluster": "1.5.1",
     "osmtogeojson": "^3.0.0-beta.4",
     "papaparse": "^5.3.1",
-    "snyk": "^1.733.0",
+    "snyk": "^1.752.0",
     "xml2json": "^0.12.0",
     "select2": "~4.0"
   },
